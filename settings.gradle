@@ -1,0 +1,2 @@
+rootProject.name = "SMM"
+include ':app'

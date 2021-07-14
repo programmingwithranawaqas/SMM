@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "553882940108",
+    "project_id": "searchmymedicine",
+    "storage_bucket": "searchmymedicine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553882940108:android:b3c9cbd65a0dbc7aba0869",
+        "android_client_info": {
+          "package_name": "com.example.smm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553882940108-7m1q0cedvn491qpqrp7osk3atu92dpfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEZRY6jZlL7Yu959gJdta2Yd_JTZz--bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553882940108-7m1q0cedvn491qpqrp7osk3atu92dpfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
